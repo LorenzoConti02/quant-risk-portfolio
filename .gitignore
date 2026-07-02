@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Project-specific generated files
+data_cache/*.csv
+outputs/*.png
+outputs/*.md
+!outputs/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
