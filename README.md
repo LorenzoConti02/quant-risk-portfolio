@@ -232,7 +232,7 @@ The near-perfect convergence between the three VaR methodologies on Gaussian-lik
 ## 👤 Author
 
 **Lorenzo Conti** — MSc Management Engineering, Politecnico di Torino
-Data & Sustainable Finance Analyst @ Intesa Sanpaolo · Incoming AI Credit Risk Analyst @ Santander
+Data & Sustainable Finance Analyst @IntesaSanpaolo
 
 [LinkedIn](https://www.linkedin.com/in/lorenzo-conti02) · [GitHub](https://github.com/LorenzoConti02)
 
